@@ -1,0 +1,7 @@
+estilos #style.css
+*{
+    font-family: Arial, Helvetica, Times
+    font-size: 16 px
+
+
+}
